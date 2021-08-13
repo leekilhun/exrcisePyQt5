@@ -16,6 +16,7 @@
 ## 폴더 무시
 .vscode/
 .vs/
+build/
 Debug/
 .settings/
 Templates/
